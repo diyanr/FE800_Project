@@ -1,0 +1,8 @@
+numpy~=1.22.3
+scipy~=1.8.0
+gym~=0.21.0
+stable-baselines3[extra]
+sb3-contrib
+
+matplotlib~=3.5.1
+pandas~=1.4.2
